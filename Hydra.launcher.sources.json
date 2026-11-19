@@ -1,0 +1,19 @@
+[
+  { "name": "Steamrip", "url": "https://hydralinks.cloud/sources/steamrip.json" },
+  { "name": "FitGirl", "url": "https://hydralinks.cloud/sources/fitgirl.json" },
+  { "name": "DODI Repacks", "url": "https://hydralinks.cloud/sources/dodi.json" },
+  { "name": "Xatab", "url": "https://hydralinks.cloud/sources/xatab.json" },
+  { "name": "OnlineFix", "url": "https://hydralinks.cloud/sources/onlinefix.json" },
+  { "name": "Redump", "url": "https://wkeynhk.online/redump.json" },
+  { "name": "GOG Source", "url": "https://hydralinks.cloud/sources/gog.json" },
+  { "name": "SteamGG", "url": "https://wkeynhk.online/steamgg.json" },
+  { "name": "Express", "url": "https://hydralinks.cloud/sources/empress.json" },
+  { "name": "Davi Kazumi", "url": "https://davidkazumisource.com/fontekazumi.json" },
+  { "name": "Rexa Games", "url": "https://hydralinks.cloud/sources/rexagames.json" },
+  { "name": "AtopGames", "url": "https://hydralinks.cloud/sources/atop-games.json" },
+  { "name": "KaOsKrew", "url": "https://hydralinks.cloud/sources/kaoskrew.json" },
+  { "name": "GameBounty", "url": "https://hydralinks.cloud/sources/gamebounty.json" },
+  { "name": "Rutracker & Rutor", "url": "https://wkeynhk.online/rutor.json" },
+  { "name": "Shisuy'Source", "url": "https://raw.githubusercontent.com/Shisuiicaro/source/refs/heads/main/shisuyssource.json" },
+  { "name": "Rutracker | Linux", "url": "https://wkeynhk.online/rutrackerlinux.json" }
+]
